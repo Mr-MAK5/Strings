@@ -1,3 +1,4 @@
+//Strings are immutable
 public class strings{
     public static void main(String [] args){
         //1st way of declaring strings
